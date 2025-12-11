@@ -1,0 +1,5 @@
+.env
+templates.json
+__pycache__/
+*.pyc
+
